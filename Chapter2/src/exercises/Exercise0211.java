@@ -2,7 +2,8 @@ package exercises;
 
 import java.util.Scanner; // program uses class Scanner
 
-/* Exercise 2.11
+/* 09/09/2015
+ * Exercise 2.11
  * Write an application that asks the user to enter two integers, obtains them from the user
  * and prints their sum, product, difference and quotient (division). Use the techniques shown in
  * Fig. 2.7.
