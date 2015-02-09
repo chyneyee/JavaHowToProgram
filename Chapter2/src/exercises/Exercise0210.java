@@ -40,3 +40,16 @@ public class Exercise0210
 	}	// end method main
 	
 }	// end class Exercise0210
+
+
+
+/* Output:
+Part (a)
+1 2 3 4
+
+Part (b)
+1 2 3 4
+
+Part (c)
+1 2 3 4
+ */ 
