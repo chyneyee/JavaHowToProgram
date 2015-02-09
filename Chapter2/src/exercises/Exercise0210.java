@@ -1,6 +1,7 @@
 package exercises;
 
-/* Exercise 2.10
+/* 09/02/2015
+ * Exercise 2.10
  * Write an application that displays the number 1 to 4 on the same line, with each pair of
  * adjacent numbers separated by one space. Write the program using the following techniques:
  * (a) Use one System.out.println statement.
