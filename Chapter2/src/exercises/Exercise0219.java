@@ -39,7 +39,7 @@ public class Exercise0219
 		System.out.print("Enter fifth integer: ");	// prompt
 		num5 = input.nextInt();	// read fifth integer from user
 		
-		smallest = num1;
+		smallest = num1;		// set first integer as the smallest for comparison
 		if (num2 < smallest)
 			smallest = num2;
 		
@@ -52,7 +52,7 @@ public class Exercise0219
 		if (num5 < smallest)
 			smallest = num5;
 		
-		largest = num1;
+		largest = num1;	// set the first integer as the largest for comparison
 		if (num2 > largest)
 			largest = num2;
 		
@@ -65,8 +65,8 @@ public class Exercise0219
 		if (num5 > largest)
 			largest = num5;
 		
-		System.out.printf("Smallest integer is: %d\n", smallest);
-		System.out.printf("Largest integer is %d\n", largest);
+		System.out.printf("Smallest integer is: %d\n", smallest);	// display the smallest integer
+		System.out.printf("Largest integer is %d\n", largest);	// display the largest integer
 		
 	}	// end method main
 
