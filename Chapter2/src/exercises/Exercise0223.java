@@ -55,3 +55,10 @@ public class Exercise0223
 	} // end method main
 
 } // end class Exercise0223
+
+
+
+/* Output:
+ * Enter a number with five digits: 12345
+ * 1   2   3   4   5
+ */ 
