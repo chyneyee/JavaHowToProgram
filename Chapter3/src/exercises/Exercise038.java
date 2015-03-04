@@ -19,7 +19,7 @@ public class Exercise038
 	private String courseName;	// course name for this GradeBook
 	private String instructorName;	// course's instructor for this GradeBook
 	
-	// constructor initializes courseName amd instructorName with String supplied as argument
+	// constructor initializes courseName and instructorName with String supplied as argument
 	public Exercise038( String cname, String iname )
 	{
 		courseName = cname;	// initializes courseName
